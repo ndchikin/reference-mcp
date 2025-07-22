@@ -4,6 +4,10 @@
 
 A Model Context Protocol server that provides BibTeX-formatted citation data from CiteAs and Google Scholar. Enhance your research workflow by integrating citation retrieval directly into your applications.
 
+<a href="https://glama.ai/mcp/servers/@ndchikin/reference-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@ndchikin/reference-mcp/badge" alt="cite-mcp MCP server" />
+</a>
+
 ## Components
 
 ### Tools

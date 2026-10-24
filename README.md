@@ -1,6 +1,6 @@
 # CiteAssist MCP server
 
-[![smithery badge](https://smithery.ai/badge/@ndchikin/reference-mcp)](https://smithery.ai/server/@ndchikin/reference-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.ndchikin/reference-mcp)](https://lightnow.ai/servers/io.github.ndchikin/reference-mcp)
 
 A Model Context Protocol server that provides BibTeX-formatted citation data from CiteAs and Google Scholar. Enhance your research workflow by integrating citation retrieval directly into your applications.
 
